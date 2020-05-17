@@ -1,0 +1,1 @@
+Capture face snapshots from the webcam in real time and send it to the backend
